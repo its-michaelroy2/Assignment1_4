@@ -1,6 +1,6 @@
 ﻿namespace Assignment1_4_1
 {
-    // Define a class named Point
+
     internal class Program
     {
         static void Main(string[] args)
